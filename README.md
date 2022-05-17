@@ -14,6 +14,17 @@ Segunda práctica de IS1
  
 
 ## PUNTO 1
+Descargarse [OpenStreetMap-datos para españita](https://download.geofabrik.de/europe/spain.html) igual hay que hacer un sudo npi
 
-- [ ] Usar osmfilter para 
+- [ ] Usar osmfilter para  extraer todos los nodos
+- [ ] Filtrar los de dentro de Madrid (osmfilter)
+- [ ] usar osmconvert para convertir los datos a CSV. 
+    Deben guardarse: id, lat, long, nombre, horario (mas si queremos pero no queremos *de momento*)
+- [ ] Usar comandos linux para filtrar entradas sin nombre (si las hay)
+- [ ] Crear una base de datos se puede hacer desde [la terminal](https://www.inmotionhosting.com/support/server/databases/create-a-mysql-database/)
+- [ ] Cargar todos los elementos a una bd. 
+
+
+
+
 

@@ -14,7 +14,7 @@ Segunda práctica de IS1
  
 
 ## PUNTO 1
-Descargarse [OpenStreetMap-datos para españita](https://download.geofabrik.de/europe/spain.html) igual hay que hacer un sudo npi
+Descargarse [OpenStreetMap-datos para españita](https://download.geofabrik.de/europe/spain.html) igual hay que hacer un sudo apt-get npi.
 
 - [ ] Usar osmfilter para  extraer todos los nodos
 - [ ] Filtrar los de dentro de Madrid (osmfilter)

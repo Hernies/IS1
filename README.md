@@ -20,7 +20,7 @@ Descargarse [OpenStreetMap-datos para españita](https://download.geofabrik.de/e
 - [ ] Filtrar los de dentro de Madrid (osmfilter)
 - [ ] usar osmconvert para convertir los datos a CSV. 
     Deben guardarse: id, lat, long, nombre, horario (mas si queremos pero no queremos *de momento*)
-- [x] Usar comandos linux para filtrar entradas sin nombre (si las hay)
+- [x] Usar comandos linux para filtrar entradas sin nombre (si las hay)  
     ```grep -P '\d{8,10}\s-\d.\d{7}\s\d\d.\d{7}.*\S*..*'```
 - [ ] Crear una base de datos se puede hacer desde [la terminal](https://www.inmotionhosting.com/support/server/databases/create-a-mysql-database/)
 - [ ] Cargar todos los elementos a una bd. 

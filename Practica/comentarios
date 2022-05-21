@@ -1,0 +1,14 @@
+No hay tabernas en la base de datos explicitamente, asumimos que son pubs por definición:
+tavern
+/ˈtav(ə)n/
+noun ARCHAIC
+"an inn or pub."
+
+"Al igual que en la tubería anterior, mirar a ver si en este caso puedes de guardar el teléfono 
+y la dirección web de los nodos, siempre que la tengan."
+En el anterior no había que coger teléfono y dirección, además más adelante solo pide id, lon, 
+lat, name, ni siquiera pide horas.
+
+Hemos decidido utilizar id, lon, lat, name, opening_hours para ambos. Aún así somos conscientes
+de que para el teléfono y dirección bastaría con los tags: phone website.
+
